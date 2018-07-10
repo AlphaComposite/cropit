@@ -7,7 +7,7 @@ See The orginal plugin at  [here](https://github.com/scottcheng/cropit).
 ## Installation
 You can only download it by npm with following command : 
 
-
+```
 # npm
 $ npm install cropit.jquery3
 ```
